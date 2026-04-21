@@ -27,11 +27,8 @@ Random Forest
 
 More advanced
 Handles non-linear relationships better
-Results
-Model	MAE	RMSE	R² Score
-Linear Regression	0.0337	0.0486	0.9979
-Random Forest	0.0251	0.0427	0.9984
 
+Results
 Random Forest performed slightly better, which suggests the data is not purely linear.
 
 Key Takeaways
